@@ -1,0 +1,5 @@
+{
+  "name": "Snowflake Chart Replica",
+  "description": "A fully interactive replica of the snowflake equity analysis chart with Company and TOC modes, dynamic Bezier curves, and performance-optimized Canvas rendering.",
+  "requestFramePermissions": []
+}
